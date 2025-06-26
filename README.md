@@ -45,30 +45,7 @@ ZenBot includes secure login and registration with JWT token-based session handl
 ### Backend
 - FastAPI (Python)
 - Pydantic (Validation)
-- MongoDB (Database-ready)
 - CORS Middleware
-
----
-
-## 📂 Project Structure
-
-```
-ZenBot/
-├── backend/
-│   ├── main.py
-│   ├── auth.py
-│   ├── diet.py
-│   ├── fitness.py
-│   ├── goal.py
-│   ├── mental_health.py
-│   ├── requirements.txt
-├── frontend/
-│   └── src/
-│       └── pages/
-│           ├── Dashboard.jsx
-│           ├── Login.jsx
-│           └── Register.jsx
-```
 
 ---
 
